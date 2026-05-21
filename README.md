@@ -67,5 +67,5 @@ Two interactive hand-tracking applications using Google MediaPipe. Play music an
 
 ---
 
-## Clone the repo
+## Clone repository
 git clone https://github.com/jenesis-maharjan/MediaPipe-Projects.git
